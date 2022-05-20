@@ -1,0 +1,36 @@
+[18-May-2022 20:08:58 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Database::__construct() must be an instance of PDO, string given, called in /home/fy3iyl61lntb/projects/crud/config.php on line 15 and defined in /home/fy3iyl61lntb/projects/crud/include/database.php:13
+Stack trace:
+#0 /home/fy3iyl61lntb/projects/crud/config.php(15): Database->__construct('')
+#1 /home/fy3iyl61lntb/projects/crud/browse-users.php(2): include('/home/fy3iyl61l...')
+#2 {main}
+  thrown in /home/fy3iyl61lntb/projects/crud/include/database.php on line 13
+[18-May-2022 20:12:13 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Database::__construct() must be an instance of PDO, string given, called in /home/fy3iyl61lntb/projects/crud/config.php on line 15 and defined in /home/fy3iyl61lntb/projects/crud/include/database.php:13
+Stack trace:
+#0 /home/fy3iyl61lntb/projects/crud/config.php(15): Database->__construct('')
+#1 /home/fy3iyl61lntb/projects/crud/browse-users.php(2): include('/home/fy3iyl61l...')
+#2 {main}
+  thrown in /home/fy3iyl61lntb/projects/crud/include/database.php on line 13
+[18-May-2022 20:12:14 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Database::__construct() must be an instance of PDO, string given, called in /home/fy3iyl61lntb/projects/crud/config.php on line 15 and defined in /home/fy3iyl61lntb/projects/crud/include/database.php:13
+Stack trace:
+#0 /home/fy3iyl61lntb/projects/crud/config.php(15): Database->__construct('')
+#1 /home/fy3iyl61lntb/projects/crud/browse-users.php(2): include('/home/fy3iyl61l...')
+#2 {main}
+  thrown in /home/fy3iyl61lntb/projects/crud/include/database.php on line 13
+[18-May-2022 20:13:34 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Database::__construct() must be an instance of PDO, string given, called in /home/fy3iyl61lntb/projects/crud/config.php on line 15 and defined in /home/fy3iyl61lntb/projects/crud/include/database.php:13
+Stack trace:
+#0 /home/fy3iyl61lntb/projects/crud/config.php(15): Database->__construct('')
+#1 /home/fy3iyl61lntb/projects/crud/browse-users.php(2): include('/home/fy3iyl61l...')
+#2 {main}
+  thrown in /home/fy3iyl61lntb/projects/crud/include/database.php on line 13
+[18-May-2022 20:17:20 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Database::__construct() must be an instance of PDO, string given, called in /home/fy3iyl61lntb/projects/crud/config.php on line 15 and defined in /home/fy3iyl61lntb/projects/crud/include/Database.php:13
+Stack trace:
+#0 /home/fy3iyl61lntb/projects/crud/config.php(15): Database->__construct('')
+#1 /home/fy3iyl61lntb/projects/crud/browse-users.php(1): include_once('/home/fy3iyl61l...')
+#2 {main}
+  thrown in /home/fy3iyl61lntb/projects/crud/include/Database.php on line 13
+[18-May-2022 20:17:20 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Database::__construct() must be an instance of PDO, string given, called in /home/fy3iyl61lntb/projects/crud/config.php on line 15 and defined in /home/fy3iyl61lntb/projects/crud/include/Database.php:13
+Stack trace:
+#0 /home/fy3iyl61lntb/projects/crud/config.php(15): Database->__construct('')
+#1 /home/fy3iyl61lntb/projects/crud/browse-users.php(1): include_once('/home/fy3iyl61l...')
+#2 {main}
+  thrown in /home/fy3iyl61lntb/projects/crud/include/Database.php on line 13
