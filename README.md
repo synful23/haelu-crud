@@ -2,7 +2,7 @@
 
 Hi guys, this is a small example of a CRUD system made specifically to fit the assessment for Haelu. 
 
-The system uses a mix of HTML, CSS, PHP/Javascript, MySQL, AJAX, JQuery and bootstrap.
+The system uses a mix of HTML, CSS, PHP/Javascript, PDO, AJAX, JQuery and bootstrap.
 
 I believe what I've built fits the criteria for a small internal system.
 
